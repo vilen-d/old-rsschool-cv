@@ -17,7 +17,7 @@ I want to become a Front-End Developer. I study at RSSchool!
 ### Skills
 + HTML
 + CSS
-+ PhotoShop
++ Adobe Photoshop
 
 ### Code Example
 ```Java
@@ -47,6 +47,7 @@ I want to become a Front-End Developer. I study at RSSchool!
 + Courses:
   - [HTML Academy](https://htmlacademy.ru/courses) (CSS, HTML)  
   - [Code Academy](https://www.codecademy.com/catalog/language/html-css)  (CSS, HTML)  
-  - [RS Schools Course «JavaScript/Front-end»](https://rs.school/) (in progress)  
+  - [RS Schools Course «JavaScript/Front-end»](https://rs.school/) (in progress)
+
 ### Language:
-  English level - A1
+English level - A1
