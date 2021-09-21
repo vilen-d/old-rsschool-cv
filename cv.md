@@ -1,5 +1,3 @@
-## [RSSCHOOL-CV](https://vilen-d.github.io/rsschool-cv/cv "CV by Vladlen") 
-------
 # VLADLEN DEGTYRYOV
 ### Junior Frontend Developer
 ***
